@@ -10,6 +10,6 @@ int main()
     else if(a%5==0) 
         printf("Divisible by 5");
     else
-        printf("neither");            
+        printf("Neither");            
     return 0;
 }
