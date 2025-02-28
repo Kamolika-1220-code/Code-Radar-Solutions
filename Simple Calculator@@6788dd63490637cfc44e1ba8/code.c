@@ -16,6 +16,6 @@ int main()
         d=a/b;
     else
         printf("error");    
-    printf("%d",d);
+printf("%d",d);
     return 0;
 }
