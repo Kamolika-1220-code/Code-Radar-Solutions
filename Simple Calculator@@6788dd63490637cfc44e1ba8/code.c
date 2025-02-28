@@ -4,8 +4,8 @@ int main()
     int a,b,d;
     char c;
     scanf("%d",&a);
-    scanf("%d ",&b);
-    scanf("%c ",&c);
+    scanf("%d",&b);
+    scanf("%c",&c);
     if(c=='+')
         d=a+b;
     else if(c=='-')
