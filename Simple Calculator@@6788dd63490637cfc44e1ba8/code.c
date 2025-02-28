@@ -7,6 +7,6 @@ int main()
     scanf("%d",&b);
     scanf("%d",&c);
     if(c=='+')
-        printf(a+b);
+        printf("%d",a+b);
     return 0;
 }
