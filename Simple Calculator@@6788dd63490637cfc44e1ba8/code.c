@@ -1,11 +1,12 @@
 #include<stdio.h>
 int main()
 {
-    int a,b,c,d;
+    int a,b,d;
+    char c;
     scanf('+','-','*','/');
     scanf("%d",&a);
     scanf("%d",&b);
-    scanf("%d",&c);
+    scanf("%c",&c);
     if(c=='+')
         d=a+b;
     printf("%d",d);
