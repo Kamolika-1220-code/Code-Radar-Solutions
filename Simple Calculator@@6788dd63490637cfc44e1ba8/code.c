@@ -1,12 +1,10 @@
 int main() {
     char operator;
     double num1, num2, result;
-    operator (+, -, *, /);
     scanf(" %c", &operator);
     printf("Enter two numbers: ");
     scanf("%lf %lf", &num1, &num2);
-    switch (operator) 
-    {
+    switch (operator) {
         case '+':
             result = num1 + num2;
             printf("Result: %.2lf\n", result);
