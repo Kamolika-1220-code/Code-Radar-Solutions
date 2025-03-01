@@ -12,11 +12,11 @@ int main() {
             break;
         case '-':
             result = num1 - num2;
-            printf( result);
+            printf(result);
             break;
         case '*':
             result = num1 * num2;
-            printf( result);
+            printf(result);
             break;
         case '/':
          
