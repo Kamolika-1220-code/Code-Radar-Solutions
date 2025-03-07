@@ -8,8 +8,9 @@ int main()
         int d=a+64;
         char ch=(char)d;
         for(int j=1;j<=i;j++){
-            printf("%c",ch);
+            printf("%c ",d);
         }
+        print("\n");
     }
     return 0;
 }
