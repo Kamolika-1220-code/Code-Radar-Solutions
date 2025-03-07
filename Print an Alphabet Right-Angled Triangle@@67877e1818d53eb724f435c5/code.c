@@ -9,9 +9,9 @@ int main()
         char ch=(char)d;
         for(int j=1;j<=i;j++){
             printf("%c ",d);
-            a++;
         }
         printf("\n");
+        a++;
     }
     return 0;
 }
