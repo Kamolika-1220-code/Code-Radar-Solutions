@@ -11,6 +11,7 @@ int main()
             printf("c",ch);
             a++;
         }
+        printf("\n");
     }
     return 0;
 }
