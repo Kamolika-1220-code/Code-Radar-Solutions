@@ -2,7 +2,6 @@
 int main()
 {
     int n;
-    printf("enter n: ");
     scanf("%d",&n);
     int nsp=n/2;
     int nst=1;
